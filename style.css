@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(24, 71, 40);
+    font: normal 20pt Brush Script MT;
+}
+
+header {
+    font: italic 25pt Times New Roman;
+    background-color: rgba(78, 107, 80, 0.945);
+}
+
+.mydiv :hover {
+     background-color: rgba(34, 136, 56, 0.479);
+}
+
+.mydiv {
+    width: 780px;
+    margin-left: 1%;
+}
+
+.mainimg {
+    width: 1000px;
+    float: right;
+    margin-left: 15px;
+}
+
+section {
+    display: flex;
+}
